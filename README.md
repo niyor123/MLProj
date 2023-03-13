@@ -1,1 +1,1 @@
-## my firast ml project.
+## my first ml project.
